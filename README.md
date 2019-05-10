@@ -1,3 +1,6 @@
+ 
+ ## Overview
+
  On this boilerplate you can find:
 - **JavaScript:** All the code uses JavaScript.
 - **SASS:** Scss structure with good practises.
